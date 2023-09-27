@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="redroid" fetch="." revision="redroid-12.0.0" />
+    <remote name="redroid" fetch="." revision="litte-droid-12.0.0" />
 
     <!-- remove unused projects -->
     <remove-project name="platform/prebuilts/bazel/darwin-x86_64" />
